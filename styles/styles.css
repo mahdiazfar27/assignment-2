@@ -337,21 +337,21 @@ body {
 
 /* Promotional Card Backgrounds */
 .promo-bloom {
-    background-image: url('./assets/deal-ana.png');
+    background-image: url('../assets/deal-ana.png');
 }
 
 .promo-ana {
-    background-image: url('./assets/deal-bloom.png');
+    background-image: url('../assets/deal-bloom.png');
 }
 
 .promo-zabo {
-    background-image: url('./assets/deal-zabo.png');
+    background-image: url('../assets/deal-zabo.png');
 }
 
 /* Newsletter Section */
 .newsletter-section {
     height: 533px;
-    background-image:url('./assets/news-letter-bg.png');
+    background-image:url('../assets/news-letter-bg.png');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -362,7 +362,7 @@ body {
 
 
 .newsletter-content {
-     /* background-image: url("./assets/news-letter-bg.png"); */
+     /* background-image: url("../assets/news-letter-bg.png"); */
     text-align: center;
     max-width: 830px;
     margin: 0 auto;
